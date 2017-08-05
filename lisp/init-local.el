@@ -14,4 +14,6 @@
 (line-number-mode t)
 (add-hook 'shell-mode-hook (lambda () (linum-mode -1)))
 
+(global-hl-line-mode t)
+
 (provide 'init-local)

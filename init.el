@@ -163,6 +163,7 @@
 ;;----------------------------------------------------------------------------
 (require 'init-ace-jump)
 (require 'init-tramp)
+(require 'init-iy-go-to-char)
 
 (provide 'init)
 
