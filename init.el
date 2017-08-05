@@ -158,6 +158,10 @@
 (when (maybe-require-package 'uptimes)
   (add-hook 'after-init-hook (lambda () (require 'uptimes))))
 
+;;----------------------------------------------------------------------------
+;; require ace jump plugin   @xiaw
+;;----------------------------------------------------------------------------
+(require 'init-ace-jump)
 
 (provide 'init)
 
