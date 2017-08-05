@@ -162,6 +162,7 @@
 ;; require ace jump plugin   @xiaw
 ;;----------------------------------------------------------------------------
 (require 'init-ace-jump)
+(require 'init-tramp)
 
 (provide 'init)
 
