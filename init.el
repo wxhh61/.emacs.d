@@ -165,6 +165,7 @@
 (require 'init-tramp)
 (require 'init-iy-go-to-char)
 (require 'init-fill-column-indicator)
+(require 'init-sr-speedbar)
 
 (provide 'init)
 
